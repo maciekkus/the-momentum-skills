@@ -1,11 +1,11 @@
 # Skills
 
-Repozytorium na skills, rules i prompts dla Claude.
+Repository for Claude skills, rules, and prompts.
 
-## Struktura
+## Structure
 
 ```
-skills/    — definicje skills (slash commands)
-rules/     — reguły i wytyczne dla Claude
-prompts/   — szablony promptów
+skills/    — skill definitions (slash commands)
+rules/     — rules and guidelines for Claude
+prompts/   — prompt templates
 ```
